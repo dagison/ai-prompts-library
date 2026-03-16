@@ -10,3 +10,22 @@ Examples:
 - AI workflow examples
 
 Describe your idea clearly so contributors can help build it.
+
+# Prompt Requests
+
+Need a specific prompt?
+
+Request it here.
+
+Examples:
+
+- prompts for developers
+- prompts for content creators
+- prompts for startup founders
+- prompts for automation
+
+Format your request like this:
+
+Category:
+Description:
+Use Case:
